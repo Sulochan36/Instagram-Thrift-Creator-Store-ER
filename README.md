@@ -51,7 +51,7 @@ The goal of this design is to model a growing business that needs to manage:
 
 The ER diagram is included as:
 
-* Image / PDF / Eraser board link (add your link here)
+* [Image](https://github.com/Sulochan36/Instagram-Thrift-Creator-Store-ER/blob/main/Instagram-Thrift-Creator-Store-ER.png)
 
 ---
 
