@@ -55,4 +55,4 @@ The ER diagram is included as:
 
 ---
 
-This design focuses on clarity, normalization, and real-world scalability.
+
